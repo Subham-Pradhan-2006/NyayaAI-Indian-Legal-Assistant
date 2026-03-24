@@ -1,0 +1,65 @@
+INDIAN KANOON - LANDMARK CASES (Sample)
+
+MANEKA GANDHI vs UNION OF INDIA (1978)
+Supreme Court of India
+Citation: AIR 1978 SC 597
+
+Facts: The petitioner's passport was impounded by the Government of India under Section 10(3)(c) of the Passports Act, 1967 without giving any reasons. The petitioner challenged the constitutional validity of this action.
+
+Held: The Supreme Court expanded the interpretation of Article 21 significantly. The Court held that:
+1. The procedure established by law must be just, fair, and reasonable, not arbitrary, fanciful, or oppressive.
+2. Articles 14, 19, and 21 are not mutually exclusive - they must be read together.
+3. The right to travel abroad is covered under Article 21.
+4. The golden triangle of Articles 14, 19, and 21 must be satisfied.
+
+Significance: This case transformed Article 21 from a procedural right to a substantive right. "Procedure established by law" now means fair, just, and reasonable procedure.
+
+---
+
+VISHAKA vs STATE OF RAJASTHAN (1997)
+Supreme Court of India
+Citation: AIR 1997 SC 3011
+
+Facts: A writ petition was filed following the gang rape of a social worker, Bhanwari Devi, in Rajasthan. The case sought enforcement of fundamental rights under Articles 14, 19, and 21 for working women.
+
+Held: The Supreme Court laid down the Vishaka Guidelines:
+1. Sexual harassment at workplace violates fundamental rights.
+2. Every employer has a duty to prevent sexual harassment.
+3. Employers must constitute a Complaints Committee.
+4. Appropriate disciplinary action must be taken.
+
+Significance: These guidelines served as law until the Sexual Harassment of Women at Workplace Act, 2013 was enacted.
+
+---
+
+KESAVANANDA BHARATI vs STATE OF KERALA (1973)
+Supreme Court of India
+Citation: AIR 1973 SC 1461
+
+Facts: Swami Kesavananda Bharati challenged the Kerala Land Reforms Act that placed restrictions on property management rights.
+
+Held: The Supreme Court by a 7:6 majority held:
+1. Parliament has wide powers to amend the Constitution under Article 368.
+2. However, Parliament cannot amend the Basic Structure of the Constitution.
+3. Basic structure includes: supremacy of the Constitution, republican and democratic form of government, secular character, separation of powers, federal character.
+
+Significance: Established the Basic Structure Doctrine - the most important constitutional law principle in India.
+
+---
+
+STATE OF WEST BENGAL vs COMMITTEE FOR PROTECTION OF DEMOCRATIC RIGHTS (2010)
+Supreme Court of India
+
+Held: CBI can investigate crimes in a state even without the state's consent if directed by the Supreme Court or High Court in cases involving serious violations of fundamental rights.
+
+---
+
+INDRA SAWHNEY vs UNION OF INDIA (1992)
+Supreme Court of India
+Citation: AIR 1993 SC 477 (Mandal Case)
+
+Held:
+1. OBC reservation of 27% upheld.
+2. Total reservation cannot exceed 50% (the 50% rule).
+3. Creamy layer should be excluded from OBC reservation benefits.
+4. No reservation in promotions (though this was later amended by 77th Amendment).

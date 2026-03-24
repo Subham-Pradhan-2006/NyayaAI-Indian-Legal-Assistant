@@ -1,0 +1,68 @@
+version: "3.9"
+
+# NyayaAI - Full Stack Docker Compose
+# 
+# Usage:
+#   docker compose up          # Start all services
+#   docker compose up --build  # Rebuild and start
+#   docker compose down        # Stop all services
+#
+# NOTE: Ollama must be running on the host machine.
+# Run: ollama serve
+#      ollama pull mistral
+
+services:
+  # ─────────────────────────────────────────
+  # FastAPI Backend
+  # ─────────────────────────────────────────
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: nyayaai-backend
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    volumes:
+      # Mount data and indexes for persistence
+      - ./backend/data:/app/data
+      - ./backend/indexes:/app/indexes
+    environment:
+      # Ollama runs on host machine - use host.docker.internal
+      - OLLAMA_BASE_URL=http://host.docker.internal:11434
+      - OLLAMA_MODEL=mistral
+      - OLLAMA_TIMEOUT=60
+      - TOP_K_CONSTITUTION=3
+      - TOP_K_KANOON=2
+      - TOP_K_PRS=2
+      - ALLOWED_ORIGINS=http://localhost:3000,http://frontend:3000
+      - LOG_LEVEL=INFO
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/api/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 120s
+
+  # ─────────────────────────────────────────
+  # Next.js Frontend
+  # ─────────────────────────────────────────
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: nyayaai-frontend
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    environment:
+      - NEXT_PUBLIC_API_URL=http://backend:8000
+    depends_on:
+      backend:
+        condition: service_healthy
+
+networks:
+  default:
+    name: nyayaai-network

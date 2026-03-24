@@ -1,0 +1,71 @@
+PRS INDIA - LEGISLATIVE SUMMARIES (Sample)
+
+RIGHT TO INFORMATION ACT, 2005
+Summary: The RTI Act gives every Indian citizen the right to request information from any public authority. Public authorities must reply within 30 days. If the information concerns life or liberty, they must reply within 48 hours. Each public authority must appoint a Public Information Officer (PIO) to handle requests. The Act has certain exemptions - information that affects national security, privacy, or cabinet proceedings cannot be disclosed. Citizens can appeal to the Central or State Information Commission if denied information.
+
+Key Provisions:
+- Section 3: All citizens have the right to information
+- Section 6: How to make an RTI request (written application, Rs. 10 fee)
+- Section 7: 30-day deadline for response
+- Section 8: Exemptions from disclosure
+- Section 19: Appeals process
+- Section 20: Penalties for non-compliance (Rs. 250 per day, max Rs. 25,000)
+
+---
+
+CONSUMER PROTECTION ACT, 2019
+Summary: The Consumer Protection Act, 2019 replaced the 1986 Act and significantly strengthened consumer rights. It covers e-commerce and online transactions. A new Central Consumer Protection Authority (CCPA) was established. Product liability provisions were introduced. The Act defines unfair trade practices and misleading advertisements more broadly.
+
+Key Provisions:
+- Section 2(7): Definition of consumer (includes online purchasers)
+- Section 10: Central Consumer Protection Authority
+- Section 82-87: Product liability
+- District Commission handles complaints up to Rs. 1 crore
+- State Commission handles Rs. 1-10 crore
+- National Commission handles above Rs. 10 crore
+
+---
+
+PROTECTION OF CHILDREN FROM SEXUAL OFFENCES (POCSO) ACT, 2012
+Summary: POCSO provides comprehensive protection to children (under 18) from sexual offences. It defines various forms of sexual assault, harassment, and pornography involving children. The Act mandates Special Courts for speedy trials. Any person with knowledge of an offence against a child must report it - failure to report is itself an offence. The child's identity must be protected throughout the legal process.
+
+Key Provisions:
+- Section 4: Penetrative sexual assault (minimum 10 years imprisonment)
+- Section 7-8: Sexual assault
+- Section 11-12: Sexual harassment
+- Section 19: Mandatory reporting
+- Section 28: Special Courts for trial
+
+---
+
+INSOLVENCY AND BANKRUPTCY CODE, 2016 (IBC)
+Summary: The IBC provides a unified framework for resolving insolvency of companies, partnership firms, and individuals in India. It consolidates multiple laws. The resolution process must be completed in 180 days (extendable to 270 days). A new authority - IBBI (Insolvency and Bankruptcy Board of India) - was created to regulate the process.
+
+Key Provisions:
+- Section 7: Financial creditor can file application
+- Section 9: Operational creditor can file application
+- Section 14: Moratorium period (no legal proceedings against debtor)
+- 180-day resolution timeline
+- If no resolution, liquidation begins
+
+---
+
+GOODS AND SERVICES TAX (GST)
+Summary: GST replaced multiple indirect taxes like VAT, service tax, excise duty. It is a destination-based tax on supply of goods and services. There are four slabs: 5%, 12%, 18%, and 28%. Essential items are either exempt or taxed at 5%. GST has dual structure - CGST (Central) and SGST (State) for intra-state, IGST for inter-state transactions.
+
+Key Provisions:
+- Article 246A of Constitution: Special provision for GST
+- Threshold for registration: Rs. 40 lakh turnover (goods), Rs. 20 lakh (services)
+- Input Tax Credit (ITC) available across the supply chain
+- GST Council: Joint forum of Centre and States
+
+---
+
+MOTOR VEHICLES ACT, 2019 (AMENDMENT)
+Summary: The 2019 amendment significantly increased penalties for traffic violations. Hit-and-run accident compensation increased. Vehicle recall provisions introduced. Aggregators (like Ola, Uber) brought under regulation. Penalties for drunk driving, over-speeding, and helmetless riding sharply increased.
+
+Key Provisions:
+- Section 119: Penalty for helmetless riding increased to Rs. 1,000
+- Section 183: Penalty for over-speeding: Rs. 1,000 to Rs. 2,000
+- Section 185: Drunk driving: Rs. 10,000 first offence, Rs. 15,000 second offence
+- Juvenile driving: Guardian/owner liable, vehicle cancelled
